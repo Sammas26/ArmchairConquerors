@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/totalsouls_label"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/total_souls" />
+
+    <TextView
+        android:id="@+id/totalsouls_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/makesouls_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/collect_souls_butt" />
+
+
+
+
+</LinearLayout>
