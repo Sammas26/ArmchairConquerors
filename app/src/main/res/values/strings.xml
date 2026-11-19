@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ArmchairConquerors</string>
+
+    <string name="collect_souls_butt">Collect Souls</string>\
+
+    #Labels
+    <string name="total_souls">Souls:</string>
+
 </resources>
