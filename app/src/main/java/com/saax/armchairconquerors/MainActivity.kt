@@ -31,6 +31,8 @@ class MainActivity : ComponentActivity() {
 
         //val clickMulti = .10
 
+
+        // Below code updates the total souls value on the screen.
         clickForSouls.setOnClickListener {
 
             souls += clickBase
